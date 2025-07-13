@@ -1,0 +1,28 @@
+.first{
+    text-align: center;
+    background-color: red;
+    height: 130px;
+    width: 150px;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.second{
+    background-color: blue;
+    width: 150px;
+    height: 130px;
+     padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+span{
+    background-color: green;
+    width: 150px;
+    height: 130px;
+    display: block;
+    margin: 20px;
+    padding: 10px;
+
+}

@@ -1,0 +1,17 @@
+h1{
+    color: red;
+    text-align: center;
+    background-color: yellow;
+}
+ul{
+    list-style-type: square;
+    background-color: lightblue;
+}
+.first{
+    color: green;
+    background-color: lightgray;
+}
+#second{
+    color: blue;
+    background-color: lightgreen;
+}

@@ -1,0 +1,23 @@
+h1{
+    color:rgb(13,220,18);
+    /* change by red green blue */
+    text-align: center;
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 80px;
+}
+body{
+    background-color: #7db12e;
+    background-size: cover;
+}
+h2{
+    color:#262a99;
+    /* change by hexadecimal */
+    /* # tag use ,6 character(0-f) */
+}
+p{
+    color: hsl(237, 75%, 48%);
+    font-size: 50px;
+    /* change by hue saturation lightness */
+    /* hsl(hue, saturation, lightness) */   
+}
